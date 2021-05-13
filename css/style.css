@@ -1,0 +1,94 @@
+@charset "UFT-8"
+
+header{
+        width: 100%;   
+    background-image: url(../imagens/Rectangle1.png);  
+}
+
+h1{
+font-family: Open Sans;
+font-style: normal;
+text-align: center;
+font-size: 3rem;
+color: #FFFFFF;
+}
+h3{    
+font-family: Open Sans;
+font-style: normal;
+text-align: center;
+font-size: 1rem;
+color: #FFFFFF;
+}
+main{
+   background-color: #FEAF3D;
+    text-align: center;
+}
+.corpo{
+
+    width:auto;
+    height: auto;
+    display: inline-block;
+}
+p{ 
+    width: 250px;
+    height: 200px;
+    display: inline-block;
+
+}
+footer{
+background-image: url(../imagens/Rectangle14.png); 
+font-family: Open Sans;
+font-style: normal;
+text-align: center;
+font-size: 1rem;
+color: #FFFFFF;
+border: 1px;
+padding-top: 1%;
+padding-right: 1%;
+padding-bottom: 1%;
+padding-left: 1%;
+}
+input{
+    text-align: center;
+background: #6E4B87;
+border-radius: 8px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 19px;
+color: #FFFFFF;
+}
+.cadastro{
+    width: 876px;
+    height: 122px;
+    left: 282px;
+    top: 1576px;
+    background: #E5E5E5;
+    border-radius: 8px;
+
+}
+.fim{
+    display: inline-block;
+    width: 234px;
+    height: 137px;
+    left: 242px;
+    top: 1808px;
+    background: url(../imagens/image4.png)
+    
+}
+.textofinal{
+    display: inline-block;
+    width: 699px;
+height: 190px;
+left: 530px;
+top: 1805px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+
+color: #414141;
+}
